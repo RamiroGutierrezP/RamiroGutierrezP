@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **gutierrezpaulosramiro@gmail.com**
 
-- 🌱 I’m currently learning **React.js**
-
 
 <div align="left">
     <div>
