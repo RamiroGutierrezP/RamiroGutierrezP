@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Ramiro</h1>
 </div>
----
 
 ### 👨‍💻 About Me :
 
